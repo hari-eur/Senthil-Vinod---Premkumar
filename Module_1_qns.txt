@@ -1,0 +1,5 @@
+write a c program 
+
+1) To check whether a given number is even or odd.
+
+2) fibonocci series
